@@ -43990,7 +43990,7 @@ q.push(new X.wl(null))
 if(!(F.b0(a,!1).a.a<800))q.push(T.dU(H.b([F.M0(new K.LZ(),"Resume"),F.M0(new K.M_(),"Contact")],r),C.a_,C.ab,C.O))
 return B.qy(T.dU(q,C.a_,s,C.O),null)}}
 K.LZ.prototype={
-$0:function(){C.W.f5(window,"https://drive.google.com/file/d/1N6E5gSMlNoU0a79idCFdmxhzVtBPckTf/view?usp=sharing","GDE")},
+$0:function(){C.W.f5(window,"https://drive.google.com/file/d/1c39nUmaPN4OquDOsCcIbjUAXLtKWORBR/view?usp=sharing ","GDE")},
 $S:0}
 K.M_.prototype={
 $0:function(){C.W.f5(window,"https://t.me/DivdotDev","GDE")},
@@ -44027,7 +44027,7 @@ p=t.t
 r=G.YZ(B.qy(T.vN(H.b([new K.y7(o),new T.cB(o,F.b0(a,!1).a.b*0.1,o,o),new A.z5(T.vN(H.b([L.cR("Hello! I am",o,A.cD(o,o,C.al,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),o,2),L.cR("Divine",o,A.cD(o,o,C.lP,o,o,o,o,o,o,o,o,25,o,C.aR,o,o,!0,o,o,o,o,o,o),o,o),new T.cB(o,10,o,o),L.cR("I design/develop Mobile Applications.\nExperienced with Flutter, Node.Js and JAVA",!0,A.cD(o,o,C.al,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o),o,1.5),A.a_b(new Y.dG(C.al,1,C.K),L.cR("Hire me",o,o,o,o),C.al,o,new A.MZ(),new V.aH(10,10,10,10),new S.cQ(C.t))],p),C.fS,C.ab,C.O),o),new T.cB(o,F.b0(a,!1).a.b*0.14,o,o),new Z.y1(o),M.hU(C.qH,K.Zk(C.j,U.ZN("https://res.cloudinary.com/divineadiole/image/upload/v1598217680/Screenshot_from_2020-07-26_18-38-18_f3yojc.png",C.kC,70),C.k,50),o,o,o,o,o,o,o,o)],p),C.fS,C.ab,C.O),o),C.aM,q,new V.aH(r,r,r,r))
 return B.qy(M.a_J(new E.nY(0,C.k,new P.Z(1/0,35),35,o),C.j,new E.Af(!0,r,o),s),o)}}
 E.Sk.prototype={
-$0:function(){C.W.f5(window,"https://drive.google.com/file/d/1zrMaQ0b-ODDefnwwv6n1pepyZmXsqnBF/view?usp=sharing","GDE")},
+$0:function(){C.W.f5(window,"https://drive.google.com/file/d/1c39nUmaPN4OquDOsCcIbjUAXLtKWORBR/view?usp=sharing","GDE")},
 $S:0}
 E.Sl.prototype={
 $0:function(){E.a9R(new E.Sj(),this.a,t.z)},
